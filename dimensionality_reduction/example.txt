@@ -1,0 +1,2 @@
+refer to AMLU - > DATA - > Assignment_4
+Using PCA(n_component = 0.95) for CS_Call project 
