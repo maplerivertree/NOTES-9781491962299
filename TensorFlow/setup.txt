@@ -1,0 +1,12 @@
+
+# .\env\Script\activate
+
+
+>> python - m pip install --upgrade tensorflow
+>> python -c 'import tensorflow; print(tensorflow._version_)'
+
+
+
+#>> python3 - m pip install --upgrade tensorflow
+#>> python3 -c 'import tensorflow; print(tensorflow._version_)'
+
